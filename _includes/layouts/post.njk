@@ -7,8 +7,8 @@ templateClass: tmpl-post
 
 {{ color }} 
 {{ content | safe }}
+ <time class="postlist-date" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
 
-<hr>
 <ul>
   {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
   {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}

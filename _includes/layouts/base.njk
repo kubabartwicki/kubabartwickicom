@@ -15,12 +15,10 @@
       <h2 class="subtitle">{{ metadata.description }}</h2>
     </header>
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %} {% if colour %}style="color:#{{ colour }}"{% endif %}>
       {{ content | safe }}
     </main>
 
-    <footer></footer>
 
-    <!-- Current page: {{ page.url | url }} -->
   </body>
 </html>

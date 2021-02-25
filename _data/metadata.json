@@ -1,9 +1,9 @@
 {
   "title": "kubabartwicki.com",
   "url": "https://kubabartwicki.com/",
-  "description": "irregular updates bla bla",
+  "description": "bla bla",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "mmmm",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"

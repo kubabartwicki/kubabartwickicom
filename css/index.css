@@ -37,6 +37,9 @@ main {
 main :first-child {
   margin-top: 0;
 }
+a:hover {
+  font-style: italic;
+}
 
 
 /* Header */
@@ -45,6 +48,9 @@ main :first-child {
   margin: 1rem 0 0 0;
   font-size: 1em; 
   font-weight: normal;
+}
+.home :link, .home :visited {
+  color: black;
 }
 .subtitle {
   margin-top: 0;
@@ -58,11 +64,22 @@ main :first-child {
 }
 .postlist-link {
   display: inline-block;
-  padding: 0.25em 0; /* 4px 3px /16 */
   color: inherit;
 }
 .postlist-item:after {
   content: attr(data-colour);
 }
 
+.postlist-item {
+  margin-bottom: 2em;
+}
+.postlist-item:last-child {
+  margin-bottom: 0;
+}
 
+
+.tmpl-post h1 {
+  font-size: 1em;
+  font-weight: normal;
+  text-decoration: underline;
+}
