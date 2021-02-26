@@ -6,6 +6,7 @@
     <title>{{ title or metadata.title }}</title>
     <meta name="description" content="{{ description or metadata.description }}">
     <meta name="twitter:card" content="summary"></meta>
+    <meta property="og:title" content="{{ title or metadata.title }}" />
 
     <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
