@@ -1,6 +1,6 @@
 {
   "title": "kubabartwicki.com",
-  "url": "https://kubabartwicki.com/",
+  "url": "https://www.kubabartwicki.com/",
   "feed": {
     "subtitle": "mmmm",
     "filename": "feed.xml",
@@ -12,8 +12,8 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Kuba Bartwicki",
+    "email": "me@kubabartwicki.com",
+    "url": "https://www.kubabartwicki.com//"
   }
 }
