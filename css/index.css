@@ -51,6 +51,7 @@ a:hover {
 }
 .home :link, .home :visited {
   color: black;
+  text-decoration: none;
 }
 .subtitle {
   margin-top: 0;
