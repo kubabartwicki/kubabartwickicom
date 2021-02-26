@@ -34,6 +34,9 @@ p,
 main {
   padding: 1rem;
 }
+main.tmpl-post {
+  max-width: 412px;
+}
 main :first-child {
   margin-top: 0;
 }
