@@ -22,10 +22,10 @@ body {
 p:last-child {
   margin-bottom: 0;
 }
-p,
-.tmpl-post li,
+.postlist-item,
+.tmpl-post,
 img {
-  max-width: 300px; 
+  max-width: 380px; 
 }
 p,
 .tmpl-post li {
@@ -64,6 +64,9 @@ a:hover {
 }
 .postlist-link {
   display: inline-block;
+  color: inherit;
+}
+.postlist-item :link, .postlist-item :visited, .tmpl-post :link, .tmpl-post :visited {
   color: inherit;
 }
 .postlist-item:after {
