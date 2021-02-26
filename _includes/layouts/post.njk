@@ -3,7 +3,7 @@ layout: layouts/base.njk
 templateClass: tmpl-post
 ---
 <h1>{{ title }}</h1>
-
+<meta property="og:description" content ="{{ content | safe | striptags | truncate }}" />
 
 {{ color }} 
 {{ content | safe }}
