@@ -2,16 +2,30 @@
 layout: layouts/base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
+
 <meta property="og:description" content ="{{ content | safe | striptags | truncate }}" />
 
-{{ color }} 
-{{ content | safe }}
- <time class="postlist-date" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
 
-<ul>
-  {%- set nextPost = collections.posts | getNextCollectionItem(page) %}
-  {%- if nextPost %}<li>Next: <a href="{{ nextPost.url | url }}">{{ nextPost.data.title }}</a></li>{% endif %}
-  {%- set previousPost = collections.posts | getPreviousCollectionItem(page) %}
-  {%- if previousPost %}<li>Previous: <a href="{{ previousPost.url | url }}">{{ previousPost.data.title }}</a></li>{% endif %}
-</ul>
+<div reversed class="postlist">
+
+<article class="postlist-item postlist-item--active">
+	<h1>{{ title }}</h1>
+	{{ content | safe }}
+ 	<time class="postlist-date" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+
+</article>
+
+{%- set currentPost = collections.posts | getCollectionItem(page) %}
+{% for post in collections.posts | reverse %}
+	{% if post == currentPost %}
+	{% else %}
+	 <article class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}"{% if post.data.colour %} style="color:#{{ post.data.colour }}"{% endif %}>
+    <a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+
+    {{ post.templateContent | safe }}
+  
+    <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+  </article>
+	{% endif %}
+{% endfor %}
+</div>
