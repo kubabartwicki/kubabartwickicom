@@ -2,7 +2,7 @@
 title: I’m forgetting my own language
 date: 2021-03-11T00:00:00Z
 layout: layouts/post.njk
-colour: 1119b8
+colour: 000cff
 
 ---
 Someone who moved out of their home country at 16 once told me that their Portuguese more or less stopped developing when they left so now they fear that they will forever sound like a teenager in an adult’s body when they use it. It’s been on my mind since because, lol, how horrific is that.
