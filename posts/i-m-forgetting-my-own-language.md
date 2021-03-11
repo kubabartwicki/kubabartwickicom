@@ -17,6 +17,6 @@ One of the ways in which I’m trying not to forget is with cooking. I got a coo
 
 It does, however, have lots of shops selling African food! I can pick up things like fufu or egusi around the corner, but knowing what these things are and what to do with them is harder. I really enjoyed [this article about swallows](https://www.nytimes.com/2021/03/05/dining/fufu-recipe-swallows.html), which fufu is one of, this week.
 
-If you want to dig deeper, I love [The Groundnut Cookbook](https://thehappyfoodie.co.uk/books/the-groundnut-cookbook). It’s co-authored by a man [of the most talents](https://youtu.be/9Gj9YxDdk2A), Duval Timothy, and is a joy to browse through and cook with.
+If you want something longer, I love [The Groundnut Cookbook](https://thehappyfoodie.co.uk/books/the-groundnut-cookbook). It’s co-authored by a man [of the most talents](https://youtu.be/9Gj9YxDdk2A), Duval Timothy, and is a joy to browse through and cook with.
 
-And finally, if you want to understand why there is food cooked in immigrant communities all around you that you don’t seem to ever see in the media (racism) – because somehow this is where this post ended up – this [piece by Melissa Thompson for Vittles, about Black erasure in the British food industry](https://vittles.substack.com/p/vittles-612-black-erasure-in-the), is silly good.
+And finally, if you want to understand why there is food cooked in immigrant communities all around you that you don’t seem to ever see in the media (racism), because somehow this is where this post ended up, this [piece by Melissa Thompson for Vittles, about Black erasure in the British food industry](https://vittles.substack.com/p/vittles-612-black-erasure-in-the), is silly good.
