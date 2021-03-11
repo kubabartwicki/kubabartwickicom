@@ -9,9 +9,9 @@ Someone who moved out of their home country at 16 once told me that their Portug
 
 I had to pick up a leek the other day to show my sister what I’m putting in a risotto because I forgot the word for it. I also spent a good few minutes trying to explain to my parents what a paintbrush is because I forgot what the thing you paint with is called.
 
-Obviously, I couldn’t say any of the things I say at work in Polish and am not even entirely sure how to translate ‘service’ (‘usługa’, but it’s not used to describe public services). Whenever I end up in a proper conversation about it, it’s painful and I reach for familiar English words quickly. This is partly because I don’t know all of the words but partly because if you work in a new-ish field and live in world dominated by English, not all concepts have been translated and understood yet.
+Obviously, I couldn’t say any of the things I say at work in Polish and am not even entirely sure how to translate ‘service’ (‘usługa’ is one word, but it’s not used to describe public services). Whenever I end up in a proper conversation about it, it’s painful and I reach for familiar English words quickly. This is partly because I don’t know all of the words but partly because if you work in a new-ish field and live in world dominated by English, not all concepts have been translated and understood yet.
 
-I speak to family and friends most days, but that’s apparently not enough for language to start deteriorating, which I probably first noticed about a year ago. It’s subtle: I don’t think you can really tell and I’ll never let myself actually forget it, but fuck me does it feel weird and clunky.
+I speak to family and friends most days, but that’s apparently not enough for language to stop deteriorating. It’s subtle: I don’t think you can really tell and I’ll never let myself actually forget it, but fuck me does it feel weird and clunky.
 
 One of the ways in which I’m trying not to forget is with cooking. I got a cookbook, weirdly published by our version of the Department for Education (very utilitarian, and like most public services, needs more seasoning). Every few weeks the fridge is all dill (for everything), cabbage (for gołąbki or bigos or kapuśniak) and root of parsley (for rosół). I’d do it more often if Peckham had a polski sklep.
 
