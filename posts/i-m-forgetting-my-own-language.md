@@ -19,4 +19,4 @@ It does, however, have lots of shops selling African food! I can pick up things 
 
 If you want something longer, I love [The Groundnut Cookbook](https://thehappyfoodie.co.uk/books/the-groundnut-cookbook). It’s co-authored by a man [of the most talents](https://youtu.be/9Gj9YxDdk2A), Duval Timothy, and is a joy to browse through and cook with.
 
-And finally, if you want to understand why there is food cooked in immigrant communities all around you that you don’t seem to ever see in the media (racism), because somehow this is where this post ended up, this [piece by Melissa Thompson for Vittles, about Black erasure in the British food industry](https://vittles.substack.com/p/vittles-612-black-erasure-in-the), is silly good.
+And finally, if you want to understand why there is food cooked in minority communities all around you that you don’t seem to see much of in the media or restaurants (racism), because somehow this is where this post ended up, this [piece by Melissa Thompson for Vittles, about Black erasure in the British food industry](https://vittles.substack.com/p/vittles-612-black-erasure-in-the), is silly good.
