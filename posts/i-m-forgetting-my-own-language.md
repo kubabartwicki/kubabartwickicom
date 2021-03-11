@@ -1,22 +1,22 @@
 ---
 title: I’m forgetting my own language
-date: 2021-02-26
+date: 2021-03-11T00:00:00Z
 layout: layouts/post.njk
-colour: 19abb3
+colour: 1119b8
 
 ---
-Fuck it, I’m gonna start saying things online! I’ve been really enjoying reading these from various people I work with or used to work with or just know of and it seems like a useful way of reflecting on what you’re doing. This, combined with an idea for a fun layout (this isn’t it, I need more content) was a perfect storm, so here we are. Gonna talk about work because not much else happens and because it’s been pretty all-consuming. Not sure how often I’ll do this or if it’ll even happen again.
+Someone who moved out of their home country at 16 once told me that their Portuguese more or less stopped developing when they left so now they fear that they will forever sound like a teenager in an adult’s body when they use it. It’s been on my mind since because, lol, how horrific is that.
 
-I work in Homes England [with](https://twitter.com/LeightonMitchUR) [some](https://twitter.com/sarahapope) [really](https://twitter.com/w_harmer) [great](https://twitter.com/sanjaypoyzer) [people](https://twitter.com/kateldn) on interesting problems. We’ve not been talking a lot about it and most chats include someone saying “we should work in the open more” at some point. Lots of reasons for why we haven’t but they’re not very interesting.
+I had to pick up a leek the other day to show my sister what I’m putting in a risotto because I forgot the word for it. I also spent a good few minutes trying to explain to my parents what a paintbrush is because I forgot what the thing you paint with is called.
 
-At the moment, I’m focusing on improving how we decide on whether a site-based opportunity, like a piece of land somewhere in the country that could totally have homes on it but doesn’t, is worth our time. We think we can make this process better and believe that teams using consistent processes to do things are an important enabler for some bigger improvements.
+Obviously, I couldn’t say any of the things I say at work in Polish and am not even entirely sure how to translate ‘service’ (‘usługa’, but it’s not used to describe public services). Whenever I end up in a proper conversation about it, it’s painful and I reach for familiar English words quickly. This is partly because I don’t know all of the words but partly because if you work in a new-ish field and live in world dominated by English, not all concepts have been translated and understood yet.
 
-We prototyped a set of questions that one must answer about a site-based opportunity, is it in a flood zone? is there a housing need in this area?, and will take it to users next week. This got me thinking about the concept of market failure, which is an important part of this process. 
+I speak to family and friends most days, but that’s apparently not enough for language to start deteriorating, which I probably first noticed about a year ago. It’s subtle: I don’t think you can really tell and I’ll never let myself actually forget it, but fuck me does it feel weird and clunky.
 
-You get market failure when something that’s mostly governed by free market rules, like buying and selling of homes, isn’t achieving advantageous outcomes. It happens a lot in the housing market, for example when a piece of land needs infrastructure to be viable, and developers aren’t incentivised to provide it because it’d cost them too much.
+One of the ways in which I’m trying not to forget is with cooking. I got a cookbook, weirdly published by our version of the Department for Education (very utilitarian, and like most public services, needs more seasoning). Every few weeks the fridge is all dill (for everything), cabbage (for gołąbki or bigos or kapuśniak) and root of parsley (for rosół). I’d do it more often if Peckham had a polski sklep.
 
-I’ve been wondering how this concept can accommodate things that the market can do, but if the state would do it, it could lead to better outcomes? Does saying that we only intervene when there is market failure limit our ability to make things better? This was stirred up by [an article about the BBC from Mariana Mazzucato](https://www.project-syndicate.org/commentary/defund-the-bbc-public-value-by-mariana-mazzucato-2021-02), who talks a lot about public value. I like this bit:
+It does, however, have lots of shops selling African food! I can pick up things like fufu or egusi around the corner, but knowing what these things are and what to do with them is harder. I really enjoyed [this article about swallows](https://www.nytimes.com/2021/03/05/dining/fufu-recipe-swallows.html), which fufu is one of, this week.
 
-*“Rather than viewing public institutions' role as being limited to fixing market failures, organizational structures like the BBC are also market shapers”*
+If you want to dig deeper, I love [The Groundnut Cookbook](https://thehappyfoodie.co.uk/books/the-groundnut-cookbook). It’s co-authored by a man [of the most talents](https://youtu.be/9Gj9YxDdk2A), Duval Timothy, and is a joy to browse through and cook with. – 
 
-In other news: I can’t be bothered to run at the moment, counting down the days until we can do things again, and wow was it fun to mess about with some CSS this week.
+And finally, if you want to understand why there is food cooked in immigrant communities all around you that you don’t seem to ever see in the media (racism) – because somehow this is where this post ended up – this [piece by Melissa Thompson for Vittles, about Black erasure in the British food industry](https://vittles.substack.com/p/vittles-612-black-erasure-in-the), is silly good.
