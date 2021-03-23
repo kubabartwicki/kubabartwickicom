@@ -89,17 +89,31 @@ a:hover {
   text-decoration: underline;
 }
 
-@media (min-width: 700px) {
+@media (min-width: 920px) {
   .postlist {
     display: grid;
-    grid-template-columns: repeat(10, 300px);
-    column-gap: 50px; 
+    grid-template-columns: repeat(3, 270px);
+    column-gap: 25px; 
   }
   .tmpl-post .postlist {
-    grid-template-columns: 400px repeat(9, 220px);
+    grid-template-columns: 480px repeat(2, 180px);
+    grid-template-rows: repeat(10, auto);
   }
   .tmpl-post .postlist-item--active {
-    column-gap: 300px;
+    margin-right: 80px;
+    grid-row: 1/-1;
   }
 }
-
+@media (min-width: 1200px) {
+  .postlist {
+    grid-template-columns: repeat(4, 270px);
+  }
+  .tmpl-post .postlist {
+    grid-template-columns: 480px repeat(3, 180px);
+  }
+}
+@media (min-width: 1400px) {
+  .tmpl-post .postlist {
+    grid-template-columns: 480px repeat(4, 180px);
+  }
+}
