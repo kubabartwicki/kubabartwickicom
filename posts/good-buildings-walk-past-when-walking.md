@@ -1,5 +1,5 @@
 ---
-title: Good buildings I walk past when walking
+title: Good buildings I go past when walking
 date: 2021-04-15
 layout: layouts/post.njk
 colour: '545454'
