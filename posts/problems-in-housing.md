@@ -2,7 +2,7 @@
 title: Some of the problems in housing
 date: 2021-08-27
 layout: layouts/post.njk
-colour: 'c2433a'
+colour: 'db1b00'
 
 ---
 
