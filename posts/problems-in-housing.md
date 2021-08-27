@@ -6,7 +6,7 @@ colour: 'c2433a'
 
 ---
 
-Homes are too hard for people to access. They’re either too expensive or have waiting lists or are not suitable. Housing is also not evenly distributed. Poor people, disabled people and people of colour are [most likely to live in housing that is precarious and unsafe](https://www.theguardian.com/society/2021/may/26/black-asian-disabled-tenants-more-likely-face-housing-discrimination), which negatively impacts all other areas of life. 
+Homes are too hard for people to access. They can be too expensive if bought or rent and are not available for all that need them as social housing or otherwise. Housing is also not evenly distributed. Poor people, disabled people and people of colour are [most likely to live in housing that is precarious and unsafe](https://www.theguardian.com/society/2021/may/26/black-asian-disabled-tenants-more-likely-face-housing-discrimination), which negatively impacts all other areas of life. 
 
 Building more homes is not enough to address the issue: we need them in the right places at affordable prices through the right tenures. We probably shouldn’t be building too much anyway, as the way we currently do it is very bad for the planet.
 
@@ -16,8 +16,8 @@ Housing is a commodity that can be freely bought and sold which makes it hard to
 
 [Most new buildings in the UK are poorly designed](https://www.architectsjournal.co.uk/news/most-new-housing-so-poorly-designed-it-should-not-have-been-built-says-bartlett-report) and architects play too small a part in housing. It’s a very homogenous, male, profit-driven industry. 
 
-Housing disempowers people that inhabit it and instead centres perspectives of those that do not, like developers, bankers, property managers. Those actors are often incentivised to do things that lead to bad outcomes for those in the homes.
+The housing system disempowers people that inhabit houses and it instead centres perspectives of those that do not, like developers, bankers, property managers. Those actors are often incentivised to do things that lead to bad outcomes for those in the homes.
 
-Problems in housing like are political which slows change down. [Nobody agrees on them](https://alastairparvin.medium.com/if-the-uk-built-1-million-homes-what-would-happen-to-house-prices-de1fbffa9235), what’s they're caused by, how they connect, and how to solve them. They're systemic problems and I’m not sure digital or PropTech are mature enough to help. It doesn't help that feedback loops are very slow in housing, because it’s bricks and mortar and money and people and lives, so we can’t iterate our way out of the housing crisis.
+Housing problems are political which slows change down. [Nobody agrees on them](https://alastairparvin.medium.com/if-the-uk-built-1-million-homes-what-would-happen-to-house-prices-de1fbffa9235), what they're caused by, how they connect, and how to solve them. They're systemic problems and I’m not sure digital or PropTech are mature enough to help. It doesn't help that feedback loops are very slow in housing, because it’s bricks and mortar and money and people and lives, so we can’t iterate our way out of the housing crisis.
 
-Looking at the list above might not give you that impression, but it’s a fascinating sector to be part of. This was fun to make sense of in my head and I'll write up the glass-half-full view sometime.
+I could go on and don’t even get me started on housing-adjacent matters: communities, transport, places. Looking at the list above might not give you that impression, but it’s a fascinating industry and ecosystem and market and service area to be part of. I enjoyed reflecting on it and will write the ‘glass half full’ view sometime.
