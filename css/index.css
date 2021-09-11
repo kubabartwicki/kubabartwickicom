@@ -25,6 +25,7 @@ header {
   top: 16px;
 }
 p,
+h2,
 .tmpl-post li {
   line-height: 1.45;
 }
@@ -34,8 +35,12 @@ main {
 main :first-child {
   margin-top: 0;
 }
+a {
+  text-underline-offset: 2px;
+}
 a:hover {
-  font-style: italic;
+  text-decoration: wavy underline;
+  -webkit-text-decoration: wavy underline; 
 }
 
 
@@ -77,17 +82,26 @@ a:hover {
 .postlist-item:last-child {
   margin-bottom: 0;
 }
+.postlist-title {
+  font-size: inherit;
+  font-weight: normal;
+  text-decoration: underline;
+}
+.postlist-title a, .postlist-item--active .postlist-title {
+  text-decoration: wavy underline;
+  -webkit-text-decoration: wavy underline; 
+}
+.postlist-title a:hover {
+  text-decoration: solid underline;
+  -webkit-text-decoration: solid underline; 
+}
 
 
 .tmpl-post .postlist-item:not(.postlist-item--active) {
   font-size: 12px;
 }
 
-.tmpl-post h1 {
-  font-size: 1em;
-  font-weight: normal;
-  text-decoration: underline;
-}
+
 
 @media (min-width: 920px) {
   .postlist {
@@ -95,13 +109,22 @@ a:hover {
     grid-template-columns: repeat(3, 270px);
     column-gap: 25px; 
   }
+  .postlist .postlist-item { 
+    max-height: 616px;
+    border-bottom: 0 solid transparent;
+    overflow: hidden;
+  }
   .tmpl-post .postlist {
     grid-template-columns: 480px repeat(2, 180px);
     grid-template-rows: repeat(10, auto);
   }
+  .tmpl-post .postlist-item {
+    max-height: 300px;
+  }
   .tmpl-post .postlist-item--active {
     margin-right: 80px;
     grid-row: 1/-1;
+    max-height: none;
   }
 }
 @media (min-width: 1200px) {
