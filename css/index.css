@@ -74,10 +74,17 @@ a:hover {
 }
 .postlist-item:after {
   content: attr(data-colour);
+  height: 7px;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%,  rgba(255,255,255,0) 50%);
 }
 
 .postlist-item {
   margin-bottom: 2em;
+  position:  relative;
 }
 .postlist-item:last-child {
   margin-bottom: 0;
