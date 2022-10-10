@@ -2,7 +2,7 @@
 title: Organising tenants, improving buildings, sticking it to landlords
 date: 2022-10-10
 layout: layouts/post.njk
-colour: '454545'
+colour: '7c6c00'
 
 ---
 
