@@ -2,7 +2,7 @@
 title: Words that we use to describe work
 date: 2021-03-19T13:04:00Z
 layout: layouts/post.njk
-colour: '008015'
+colour: '57cf1e'
 
 ---
 I've been working on ‘transformation’ for the past year. It's an unhelpful, precarious word, but we’re stuck with it. Through it, I’m learning a lot about working with people who are new to things like agile and user-centred design. This is about a few of those learnings, focusing on the words that we use to describe work; communication tools that describe intent to others. Outcomes, user needs, assumptions, non-functional requirements, problem statements, outputs, solutions, business needs, indicators, value, deliverables. They’re all slightly different things and you probably like some more than others.

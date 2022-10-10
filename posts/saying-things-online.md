@@ -2,7 +2,7 @@
 title: Saying things online
 date: 2021-02-26
 layout: layouts/post.njk
-colour: 19abb3
+colour: 12d5a7
 ---
 
 Fuck it, I’m gonna start saying things online! I’ve been really enjoying reading these from various people I work with or used to work with or just know of and it seems like a useful way of reflecting on what you’re doing. This, combined with an idea for a fun layout (this isn’t it, I need more content) was a perfect storm, so here we are. Gonna talk about work because not much else happens and because it’s been pretty all-consuming. Not sure how often I’ll do this or if it’ll even happen again.

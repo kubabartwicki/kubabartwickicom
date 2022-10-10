@@ -2,7 +2,7 @@
 title: Good buildings I go past when walking
 date: 2021-04-15
 layout: layouts/post.njk
-colour: '545454'
+colour: 'aa19eb'
 
 ---I read an article earlier this year about [the weird relationship British people have with walking](https://bit.ly/3aSWhzs). I could relate to it, a lot: walking for leisure was new to me and so were vast networks of footpaths all across the country, cutting through public and private land. I enjoy it as much as anyone now and obviously it have been doing it a lot over the past year. This article is in praise of the long walk. Not the daily loop around the park, which has been on autopilot for months now, but the treat walk, the half marathon to get a sandwich or a day-long stroll to pick up a plant. 
 
