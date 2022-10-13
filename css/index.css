@@ -117,7 +117,7 @@ a:hover {
     column-gap: 25px; 
   }
   .postlist .postlist-item { 
-    max-height: 616px;
+    max-height: 416px;
     border-bottom: 0 solid transparent;
     overflow: hidden;
   }
@@ -126,7 +126,7 @@ a:hover {
     grid-template-rows: repeat(10, auto);
   }
   .tmpl-post .postlist-item {
-    max-height: 300px;
+    max-height: 200px;
   }
   .tmpl-post .postlist-item--active {
     margin-right: 80px;
@@ -134,16 +134,19 @@ a:hover {
     max-height: none;
   }
 }
-@media (min-width: 1200px) {
+@media (min-width: 1300px) {
   .postlist {
     grid-template-columns: repeat(4, 270px);
   }
   .tmpl-post .postlist {
-    grid-template-columns: 480px repeat(3, 180px);
+    grid-template-columns: 640px repeat(3, 180px);
   }
 }
-@media (min-width: 1400px) {
+@media (min-width: 1500px) {
+  .postlist {
+    grid-template-columns: repeat(5, 270px);
+  }
   .tmpl-post .postlist {
-    grid-template-columns: 480px repeat(4, 180px);
+    grid-template-columns: 640px repeat(4, 180px);
   }
 }
