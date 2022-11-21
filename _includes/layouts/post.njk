@@ -19,10 +19,10 @@ templateClass: tmpl-post
 {% for post in collections.posts | reverse %}
 	{% if post == currentPost %}
 	{% else %}
-	 <article class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}"{% if post.data.colour %} style="color:#{{ post.data.colour }}"{% endif %}>
+	 <article class="postlist-item{% if post.url == url %} postlist-item-active{% endif %}">
     	<h2 class="postlist-title"><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h2>
 
-    {{ post.templateContent | safe | truncate(1400) }}
+    {{ post.templateContent | safe | truncate(1440) }}
   
     <p><time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></p>
   </article>

@@ -20,7 +20,7 @@
       <h2 class="subtitle">{{ metadata.description }}</h2>
     </header>
 
-    <main{% if templateClass %} class="{{ templateClass }}"{% endif %} {% if colour %}style="color:#{{ colour }}"{% endif %}>
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
       {{ content | safe }}
     </main>
 
