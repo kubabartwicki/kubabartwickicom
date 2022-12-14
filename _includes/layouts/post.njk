@@ -20,7 +20,7 @@ templateClass: tmpl-post
 	{% if post == currentPost %}
 	{% else %}
 	 <article class="postlist-item">
-    	<h2 class="postlist-title"><a href="{{ post.url | url }}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a> <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time></h2>
+    	<h2 class="postlist-title"><a href="{% if post.data.externalLink %}{{ post.data.externalLink }}{% else %}{{ post.url | url }}{% endif %}" class="postlist-link">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a> <time class="postlist-date" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>{% if post.data.externalSource %} (on {{ post.data.externalSource }}){% endif %}</h2>
 
   </article>
 	{% endif %}
