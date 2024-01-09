@@ -53,10 +53,6 @@ a:hover, .postlist-title a {
   padding: 2px 4px;
   text-decoration: none;
 }
-.header a:hover {
-  text-decoration: none;
-  filter: blur(5px);
-}
 
 
 /* Posts list */
@@ -79,7 +75,7 @@ a:hover, .postlist-title a {
 
 
 .postlist-item--active {
-  border-bottom: 24px solid black;
+  border-bottom: 1px solid black;
   padding-bottom: 25px;
   margin-bottom: 20px;
   max-width: 640px;
