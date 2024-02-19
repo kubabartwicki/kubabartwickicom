@@ -1,5 +1,5 @@
 ---
-title: You need product teams with designers on them to make sense of AI
+title: We need product teams with designers on them to make sense of AI
 date: 2024-02-19
 layout: layouts/post.njk
 
