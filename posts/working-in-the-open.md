@@ -5,7 +5,7 @@ layout: layouts/post.njk
 
 ---
 
-Working in the open in the public sector could really do with a renewed, optimistic case for it. Here are a few reasons why working in the open is good for you and your teams:
+Working in the open in the public sector could really do with a renewed, optimistic case for it. By working in the open, I mean teams thinking out loud, announcing product changes they’re trialling, sharing good practice, stuff like that. We have countless examples of these on GOV.UK blogs from the last 10 years. Here are a few reasons why working in the open is good for you and your teams:
 
 - It makes the work better. Writing about a piece of work forces you to reflect on it, which in turn improves the quality of it. It makes your logic clearer, makes you sense check all of your assumptions, and makes it easier to realise when you maybe haven’t thought about a thing hard enough yet
 - It helps you bring others along. Clearly setting out the case for something and describing how you tackled the challenges is an incredibly effective and scalable way of establishing momentum and keeping it going
