@@ -1,5 +1,5 @@
 ---
-title: User-facing products vs enabling platforms
+title: User-facing services vs enabling platforms
 date: 2024-10-08
 layout: layouts/post.njk
 
