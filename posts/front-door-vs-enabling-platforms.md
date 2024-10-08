@@ -5,6 +5,8 @@ layout: layouts/post.njk
 
 ---
 
+(WIP but getting it out early)
+
 Juxtaposing stuff is a great tool for thinking things through, but it can also limit thinking a lot. Here is one dichotomy that has been on my mind recently. It’s not some grand plea nor is it directed at anyone in particular. I just like working through things in writing, and all this blogging is giving me FOMO.
 
 An organisation like GDS, (which is where I work, if you’re here for a reason that isn’t design in government), is special because it is responsible for both the front door to government, and the platforms that help teams across government build great services. The fact that we do both, and more, is what makes us more than a sum of our parts. More than just a digital publishing arm and more than just a platform shop. I guess it makes it also makes us quite a complicated, unusual organisation, which may have made it hard to establish a clear mission at times, but I’m not convinced that any of it is really that unusual.
