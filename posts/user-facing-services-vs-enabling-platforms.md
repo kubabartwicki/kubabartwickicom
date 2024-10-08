@@ -5,7 +5,7 @@ layout: layouts/post.njk
 
 ---
 
-Here is a dichotomy that has been on my mind recently: user-facing products, or enabling platforms? What’s an ideal relationship between these two? It’s not some grand plea nor is it directed at anything or anyone in particular. I just like working through things in writing, and all this blogging is giving me FOMO.
+Here is a dichotomy that has been on my mind recently: user-facing services, or enabling platforms? What’s an ideal relationship between these two? It’s not some grand plea nor is it directed at anything or anyone in particular. I just like working through things in writing, and all this blogging is giving me FOMO.
 
 An organisation like GDS is special because it is responsible for both the front door to government, and the platforms that help teams across government build great services. The fact that we do both is what makes us more than a sum of our parts. More than just a digital publishing arm and more than just a platform shop. I guess it makes it also makes us quite a complicated, unusual organisation, which may have made it hard to establish a clear mission at times, but I’m not convinced that any of it is really *that* unusual?
 
