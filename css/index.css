@@ -80,3 +80,19 @@ a:hover, .postlist-title a {
   margin-bottom: 20px;
   max-width: 640px;
 }
+
+/* Slide images in talk write-ups */
+.slide {
+  margin: 2em 0 1em;
+}
+.slide img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+}
+.slide figcaption {
+  font-size: 0.75em;
+  margin-top: 0.5em;
+  color: #555;
+}
